@@ -1,7 +1,7 @@
 # EE 559 Final Project
 
 ## Overview
-This project explores machine learning models for predicting whether a social media post will go viral.
+This project explores machine learning models for classifying Viral Dark Web Threads. 
 
 The dataset is too large to host directly on GitHub, so it is provided via Google Drive.
 
